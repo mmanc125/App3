@@ -1,0 +1,3 @@
+
+
+appcenter test run uitest --app "mancinim/app1UiTest" --devices 2e5b52b6 --app-path "C:\Git\App1\com.companyname.App1.apk" --test-series "master" --locale "en_US" --build-dir "C:\Git\App1\App1_UITest1\bin\Debug"
